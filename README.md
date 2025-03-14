@@ -14,6 +14,7 @@ Atualmente, o projeto está em andamento. Algumas seções estão completas, enq
 - **Ajustes finos de responsividade.**
 - **Detalhes adicionais sobre a trama da série.**
 - **Ajustes finais de estilo e navegação.**
+- **Página para feedbacks dos fãs.**
 
 ## Tecnologias utilizadas
 - **HTML**
